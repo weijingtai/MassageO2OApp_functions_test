@@ -1,0 +1,27 @@
+{
+  "name": "massageo2oapp_functions_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 10000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weijingtai/MassageO2OApp_functions_test.git"
+  },
+  "author": "wjt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weijingtai/MassageO2OApp_functions_test/issues"
+  },
+  "homepage": "https://github.com/weijingtai/MassageO2OApp_functions_test#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "pactum": "^3.2.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
